@@ -1,0 +1,88 @@
+| Registro | Ezequiel, Lavezzi, 1154865878, Rosario 80, pocho22@outlook.com18/11/21 06:56:44
+| Registro | Jorge, Sanchez, 11254556, Lora 7, jsanchez@live.com18/11/21 06:56:46
+| Registro | Daniel, Zaccaria, 115648363, Santamaria 782, dani_zacca@hotmail.com18/11/21 06:56:49
+| Registro | David, Farias, 115685546, Quintana 708, david_faris@hotmail.com18/11/21 06:56:51
+18/11/21 06:58:44 | Registro | Pablo, Zaccaria, 1154678456, Santa maria 982, pablo_f1team@hotmailcom 
+18/11/21 06:58:46 | Registro | Jorge, Sanchez, 11254556, Lora 7, jsanchez@live.com 
+18/11/21 07:01:22 | Actualizacion | 7, Pablo, Zaccaria, 1154678456, Santa maria 982 
+18/11/21 07:01:27 | Registro | Felipe, Pigna, 115478565, belgrano 48, pignaf@live.com.ar 
+18/11/21 07:02:11 | Actualizacion | David, Gomez, 1235, Quintana 7222, davis@hotmail.com 
+18/11/21 07:17:42 | Eliminado | Felipe, Pigna, 115478565, belgrano 48, pignaf@live.com.ar 
+18/11/21 07:17:47 | Eliminado | David, Farias, 115685546, Quintana 708, david_faris@hotmail.com 
+18/11/21 07:17:51 | Eliminado | Jorge, Sanchez, 11254556, Lora 7, jsanchez@live.com 
+18/11/21 07:18:13 | Eliminado | David, Farias, 115685546, Quintana 708, david_faris@hotmail.com 
+18/11/21 07:18:18 | Eliminado | Daniel, Zaccaria, 115648363, Santamaria 782, dani_zacca@hotmail.com 
+18/11/21 07:18:39 | Registro | Daniel, Santoro, 11523232, Boedo 501, santoro_sl@hotmail.com 
+18/11/21 07:19:08 | Actualizacion | Anibal, Fernandez, 115652323, Quilmes 408, anibal_f@gobierno.gov 
+18/11/21 08:42:36 | Eliminado | Daniel, Santoro, 11523232, Boedo 501, santoro_sl@hotmail.com 
+24/11/21 22:50:08 | Registro | Leonel, Scaloni , 1154685465, Versalee 48, scaloneta@gmail.com 
+24/11/21 22:50:17 | Actualizado | Leonel, Scaloni , 1154685465, Versalee 48, scaloneta2020@gmail.com 
+24/11/21 22:50:24 | Eliminado | David, Farias, 115685546, Quintana 708, david_faris@hotmail.com 2
+26/11/21 16:31:14 | Registro | Pablodd, Zaccariadd, 1154678456dd, Santa maria 982d, pablo_f1tessam@hotmail.com 
+26/11/21 16:33:13 | Registro | Daniel, Zaccaria, 115648363, Santamaria 782, dani_zacca@hotmail.com 
+27/11/21 13:11:56 | Registro | Davisdd, Fsdarias, 11568sd5546, sd, davisdd_faris@hotmail.com 
+27/11/21 13:13:36 | Registro | Pablo, Zaccaria, 1154678456, Santa maria 982, pablo_f1tesam@hotmail.com 
+27/11/21 13:15:05 | Registro | David, Farias, 115685546, Quintana 708, davidsdsd_faris@hotmail.com 
+27/11/21 13:16:50 | Registro | Jorge, Sanchez, 11254556, Lora 7, jsanchezee@live.com 
+27/11/21 13:20:51 | Registro | Jorge, Sanchez, 11254556, Lora 7, jsanchez@live.com 
+27/11/21 13:21:48 | Registro | Jorge, Sanchez, 11254556, Lora 7, jsanchez@live.com 
+27/11/21 13:23:00 | Registro | Jorge, Sanchez, 11254556, Lora 7, jsanchez@live.com 
+27/11/21 13:23:34 | Registro | Jorge, Sanchez, 11254556, Lora 7, jsanchez@live.com 
+27/11/21 13:26:58 | Registro | Pablo, Zaccaria, 1154678456, Santa maria 982, pablo_f1team@hotmail.com 
+27/11/21 13:30:23 | Registro | Ezequiel, Lavezzi, 1154865878, Rosario 80, pocho22@outlook.com 
+27/11/21 13:32:51 | Registro | Pablo, Zaccaria, 1154678456, Santa maria 982, pablo_f1team@hotmail.com 
+27/11/21 13:34:55 | Registro | Alberto, Fernandez, 1156587889, Entre Rios 1080, alfer@gobierno.gov 
+27/11/21 13:36:28 | Registro | Ezequiel, Lavezzi, 1154865878, Rosario 80, pocho22@outlook.com 
+27/11/21 13:40:34 | Actualizado | Claudio, Biaggio, 115468532, Pampa 55, pampa9@outlook.com 
+27/11/21 13:40:43 | Eliminado | Jorge, Sanchez, 11254556, Lora 7, jsanchez@live.com 
+27/11/21 13:41:15 | Registro | Pepe, Argento, 1154685, Argentina 1910, pepearg@live.com 
+27/11/21 13:41:33 | Registro | Pepe, Argento, 1154685, Argentina 1910, pepearg@live.com 
+27/11/21 14:10:06 | Registro | Lionel, Messi, 11546523456, sdad 55, lsda@gmail.com 
+27/11/21 14:15:16 | Actualizado | Moni, Argento, 1154685, Argentina 1910, moniearg@live.com 
+27/11/21 14:16:53 | Actualizado | Moni, Argento, 1153344, Argentina 1910, moniearg@live.com 
+27/11/21 14:17:01 | Eliminado | David, Farias, 115685546, Quintana 708, david_faris@hotmail.com 
+27/11/21 14:17:32 | Registro | nombre, apellido, 123546, dire, mail 
+27/11/21 14:20:15 | Registro | Ezequiel, Lavezzi, 1154865878, Rosario 80, pocho22@outlook.com 
+27/11/21 14:20:26 | Actualizado | Pocho, Lavezzi, 1154865878, Rosario 80, pocho22@outlook.com 
+27/11/21 14:20:30 | Eliminado | Pocho, Lavezzi, 1154865878, Rosario 80, pocho22@outlook.com 
+27/11/21 14:21:13 | Registro | Ezequiel, Lavezzi, 1154865878, Rosario 80, pocho22@outlook.com 
+27/11/21 14:21:35 | Actualizado | ssssssssss, ssssssss, 115482278, Rosdsio 80222, ps@outlook.com 
+27/11/21 14:21:43 | Eliminado | ssssssssss, ssssssss, 115482278, Rosdsio 80222, ps@outlook.com 
+27/11/21 15:48:03 | Registro | Alberto, Fernandez, 1156587889, Entre Rios 1080, alfer@gobierno.gov 
+27/11/21 15:48:14 | Registro | Jorge, Gutierrez, 1122334455, Espora 45, gutijor@live.com 
+27/11/21 15:48:35 | Registro | Felipe, Pigna, 115478565, belgrano 48, pignaf@live.com.ar 
+27/11/21 15:50:13 | Registro | gaston, paez, 1156458545, burzaco, casla@gmail.com 
+27/11/21 15:50:33 | Actualizado | Diego, Freire, 123156456, bera, diego_casla@gmail.com 
+27/11/21 15:50:47 | Eliminado | Jorge, Sanchez, 11254556, Lora 7, jsanchez@live.com 
+28/11/21 01:33:21 | Registro | Jorge, Sanchez, 15556584, Madero 100, sdsdor@live.com 
+28/11/21 01:34:19 | Registro | Daniel, Zaccaria, 115648363, Santamaria 782, dani_zacca@hotmail.com 
+28/11/21 01:34:46 | Registro | Jorge, Sanchez, 11254556, Lora 7, jsanchez@live.com 
+28/11/21 01:35:15 | Registro | Jorge, Sanchez, 11254556, Lora 7, jsanchez@live.com 
+28/11/21 01:36:36 | Registro | Agustin, Pichot, 1154658799, alsina 73, agus.p@mail.com 
+28/11/21 01:37:15 | Registro | Daniel, Zaccaria, 115648363, Santamaria 782, dani_zacca@hotmail.com 
+28/11/21 01:38:03 | Registro | Daniel, Zaccaria, 115648363, Santamaria 782, dani_zacca@hotmail.com 
+28/11/21 01:39:25 | Registro | Pablo, Zaccaria, 1154678456, Santa maria 982, pablo_f1team@hotmail.com 
+28/11/21 01:40:03 | Registro | Ricardo, Darin, 11548565, corrientes 23, rdarin@hotmail.com 
+28/11/21 01:41:17 | Registro | Lenny, Kravitz, 1154685, Jamaica 78, lennyk@gmail.com 
+28/11/21 01:45:44 | Registro | Guillermo, Brown, 1154585645, Burzaco 15, altebrown@gov.com.ar 
+28/11/21 01:49:08 | Registro | Eugenio, Burzaco, 11546856, 2 de abril 1988, eburza@hotmail.com 
+28/11/21 01:50:48 | Registro | gaston, paez, 1156458545, burzaco, casla@gmail.com 
+28/11/21 01:55:29 | Actualizado | nahue, maleh, 151234568, avellaneda 588, nahuelmaleh@hotmail.com 
+28/11/21 01:57:33 | Actualizado | Juan, Dias, 115877885, Gallo 8, jdiasfotos@gmail.com 
+28/11/21 01:57:40 | Eliminado | Daniel, Zaccaria, 115648363, Santamaria 782, dani_zacca@hotmail.com 
+28/11/21 01:58:23 | Registro | Guillermo, Francella, 11458877, Moreno 2557, franccelaguille@gmail.com 
+28/11/21 01:59:19 | Registro | Indiana, Jonse, 55465856, Massachuset 1548, indianajones@hollywood.com 
+28/11/21 01:59:53 | Actualizado | Beto, Casella, 1156487, Scalabrini ortiz 1558, betocasella@hotmail.com 
+28/11/21 02:00:02 | Eliminado | Pablodd, Zaccariadd, 1154678456dd, Santa maria 982d, pablo_f1tessam@hotmail.com 
+28/11/21 02:03:27 | Registro | Manuel, Ginobili, 115468456, Bahia 788, manug@gmail.com 
+28/11/21 02:04:23 | Eliminado | Jorge, Sanchez, 15556584, Madero 100, sdsdor@live.com 
+28/11/21 02:04:55 | Actualizado | Michael, Jordan, 11566689, Chicago 1988, mjordan@jordan.com 
+28/11/21 02:05:23 | Registro | Tony, Montana, 55658788, Brokklyn 10, tmontana@holliwood.com 
+28/11/21 04:17:00 | Registro | Gaston, Paez, 1132626937, Burzaco 1852, paez.gastonm@gmail.com 
+28/11/21 04:39:30 | Registro | Juan, Barreto, 1155667788, Medrano  951, jbarreto@gmail.com 
+28/11/21 04:44:59 | Actualizado | Gabriela, Aquino, 1155667788, Medrano  951, gaquino@gmail.com 
+28/11/21 05:07:12 | Eliminado | David, Farias, 115685546, Quintana 708, david_faris@hotmail.com 
+28/11/21 05:07:24 | Eliminado | Daniel, Zaccaria, 115648363, Santamaria 782, dani_zacca@hotmail.com 
+28/11/21 05:37:40 | Registro | Juan , Carlos, 1155625, tango 45, jj@gmail.com 
+28/11/21 05:38:10 | Actualizado | Juan , Carlos, 1155625, Belgrano 45, carlosjuan@gmail.com 
+28/11/21 05:38:18 | Eliminado | Juan , Carlos, 1155625, Belgrano 45, carlosjuan@gmail.com 
