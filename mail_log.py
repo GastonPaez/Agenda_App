@@ -8,7 +8,7 @@ class Mail:
         self.port = 465
         self.smtp_server_domain_name = "smtp.gmail.com"
         self.sender_mail = "theagreatdoug.t@gmail.com"
-        self.password = "chango2011"
+        self.password = ""
 
     def send(self, subject, content, emails):
         # Funcion para enviar el correo electronico
@@ -31,7 +31,7 @@ class MailLog:
         self.port = 465
         self.smtp_server_domain_name = "smtp.gmail.com"
         self.sender_mail = "theagreatdoug.t@gmail.com"
-        self.password = "chango2011"
+        self.password = ""
 
     def send_log(self, emails):
         # Funcion para enviar el correo electronico
